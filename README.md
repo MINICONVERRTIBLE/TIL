@@ -24,7 +24,8 @@
 
 ### 목차
 
-- [youtube comments crawling code](https://github.com/MINICONVERRTIBLE/TIL/blob/master%EC%9C%A0%ED%88%AC%EB%B8%8C%20%EB%8C%93%EA%B8%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py, "py link") 💻 0422 유투브 댓글 크롤링 시각화 💻
+💻 0422 유투브 댓글 크롤링 시각화 💻
+- [youtube comments crawling code](https://github.com/MINICONVERRTIBLE/TIL/blob/master%EC%9C%A0%ED%88%AC%EB%B8%8C%20%EB%8C%93%EA%B8%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py, "py link") 
 
 
 
