@@ -25,13 +25,17 @@
 ### 목차
 
 💻 [유투브 댓글 크롤링 시각화] 💻
-(https://github.com/MINICONVERRTIBLE/TIL/blob/master%EC%9C%A0%ED%88%AC%EB%B8%8C%20%EB%8C%93%EA%B8%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py, "py link") 
+
+(https://github.com/MINICONVERRTIBLE/TIL/blob/master%EC%9C%A0%ED%88%AC%EB%B8%8C%20%EB%8C%93%EA%B8%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py) 
 
 💻 [네이버 주식 크롤링] 💻
-(https://github.com/MINICONVERRTIBLE/TIL/blob/master/Analyzer.py, "py link") 
+
+(https://github.com/MINICONVERRTIBLE/TIL/blob/master/Analyzer.py) 
 
 💻 [네이버 주식 크롤링 DB 업데이터] 💻
-(https://github.com/MINICONVERRTIBLE/TIL/blob/master/DBUpdater.py, "py link") 
+
+(https://github.com/MINICONVERRTIBLE/TIL/blob/master/DBUpdater.py) 
 
 💻 [네이버 주식 크롤링 종가 예측 모델 - RNN 활용] 💻
-(https://github.com/MINICONVERRTIBLE/TIL/blob/master/RNN_StockPrediction.py, "py link") 
+
+(https://github.com/MINICONVERRTIBLE/TIL/blob/master/RNN_StockPrediction.py) 
