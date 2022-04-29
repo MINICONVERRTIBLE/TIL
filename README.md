@@ -10,7 +10,7 @@
 
 <hr/>
 
-#### 작성법
+#####  작성법
 
 ###### -  이모티콘을 통해 분류하도록 한다
 
@@ -24,9 +24,9 @@
 
 ### 목차
 
+📑[파이썬(https://github.com/MINICONVERRTIBLE/TIL/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC]📑
 
-💻[유투브 댓글 크롤링 시각화 💻
-(https://github.com/MINICONVERRTIBLE/TIL/blob/master%EC%9C%A0%ED%88%AC%EB%B8%8C%20%EB%8C%93%EA%B8%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py, "py link")] 💻
 
-💻[주식 데이터 크롤링 및 예측
-(https://github.com/MINICONVERRTIBLE/TIL/blob/master%EC%9C%A0%ED%88%AC%EB%B8%8C%20%EB%8C%93%EA%B8%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py, "py link")]💻
+💻[유투브 댓글 크롤링 시각화(https://github.com/MINICONVERRTIBLE/TIL/blob/master%EC%9C%A0%ED%88%AC%EB%B8%8C%20%EB%8C%93%EA%B8%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py, "py link")] 💻
+
+💻[주식 데이터 크롤링 및 예측(https://github.com/MINICONVERRTIBLE/TIL/blob/master%EC%9C%A0%ED%88%AC%EB%B8%8C%20%EB%8C%93%EA%B8%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py, "py link")]💻
