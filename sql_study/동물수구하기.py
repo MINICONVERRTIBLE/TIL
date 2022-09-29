@@ -179,3 +179,22 @@ ORDER BY ANIMAL_ID;
 SELECT ANIMAL_ID, NAME FROM ANIMAL_INS
 WHERE NAME LIKE '%el%'AND ANIMAL_TYPE='DOG'
 ORDER BY NAME asc;
+'''
+이 중 가장 보호소에 먼저 들어온 동물은 Jack입니다. 따라서 SQL문을 실행하면 다음과 같이 나와야 합니다.'''
+Select Name from animal_ins
+order by datetime asc
+limit 1;
+'''
+이 중 젊은 동물은 Diablo, Miller, Cherokee입니다. 따라서 SQL문을 실행하면 다음과 같이 나와야 합니다.
+'''
+select animal_id, name from animal_ins where intake_condition <> 'Aged' order by animal_id asc
+'''
+ANIMAL_INS 테이블에 등록된 모든 레코드에 대해, 각 동물의 아이디와 이름, 들어온 날짜1를 조회하는 SQL문을 작성해주세요. 이때 결과는 아이디 순으로 조회해야 합니다.
+'''
+SELECT ANIMAL_ID, NAME, DATE_FORMAT(DATETIME, '%Y-%m-%d') AS 날짜 FROM ANIMAL_INS;
+'''
+동물 보호소에 들어온 동물 중, 이름이 없는 채로 들어온 동물의 ID를 조회하는 SQL 문을 작성해주세요. 단, ID는 오름차순 정렬되어야 합니다.
+'''
+SELECT ANIMAL_ID FROM ANIMAL_INS
+WHERE NAME IS NULL
+ORDER BY ANIMAL_ID ASC;
